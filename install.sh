@@ -1,1 +1,1 @@
-sudo pacman -U wine-tkg-staging-fsync-git-6.11.r4.g0dd44a25-326-x86_64.pkg.tar.zst
+sudo pacman -U wine-tkg-fsync-git-6.14.r0.g7bedd313c88-326-x86_64.pkg.tar.zst
