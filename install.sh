@@ -1,1 +1,1 @@
-python3 Script
+python3 install.py
